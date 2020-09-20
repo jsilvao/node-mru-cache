@@ -1,0 +1,26 @@
+{
+  "name": "mru-cache",
+  "version": "1.0.0",
+  "description": "An MRU cache implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsilvao/node-mru-cache.git"
+  },
+  "keywords": [
+    "mru",
+    "lru",
+    "cache",
+    "buffer",
+    "performance"
+  ],
+  "author": "Javier Silva Ortíz <silvaortizjavier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsilvao/node-mru-cache/issues"
+  },
+  "homepage": "https://github.com/jsilvao/node-mru-cache#readme"
+}
